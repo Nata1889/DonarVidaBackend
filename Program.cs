@@ -49,7 +49,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-app.UseCors(MyAllowSpecificOrigins);
+
 
 
 // Configure the HTTP request pipeline.
@@ -60,6 +60,7 @@ if (app.Environment.IsDevelopment())
 }
 
 //.UseCors("AllowAll");
+app.UseCors(MyAllowSpecificOrigins);
 
 app.UseHttpsRedirection();
 
