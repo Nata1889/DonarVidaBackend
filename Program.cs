@@ -41,7 +41,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
                       builder =>
                       {
-                          builder.WithOrigins("https://donarvidablazor.azurewebsites.net") // Cambia por el puerto de tu frontend
+                          builder.WithOrigins("https://donarvidablazor.azurewebsites.net", "http://localhost:5198") //puerto de tu frontend
                                  .AllowAnyHeader()
                                  .AllowAnyMethod();
                       });
