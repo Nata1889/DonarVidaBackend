@@ -17,9 +17,8 @@ namespace BackendFinal.DataContext
 
             string cadenaConexion = configuration.GetConnectionString("mysqlremoto");
 
-            //optionsBuilder.UseSqlServer(cadenaConexion) ;
             optionsBuilder.UseMySql(cadenaConexion,
-                                    ServerVersion.AutoDetect(cadenaConexion));
+            ServerVersion.AutoDetect(cadenaConexion));
         }
 
         public virtual DbSet<Donante> Donantes { get; set; }

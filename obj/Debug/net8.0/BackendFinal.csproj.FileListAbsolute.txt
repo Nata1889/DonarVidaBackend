@@ -238,5 +238,5 @@ C:\Users\Natanael\Trabajo final Programacion II - Base de datos II - Gestión de
 C:\Users\Natanael\Trabajo final Programacion II - Base de datos II - Gestión de Proyectos\BackendFinal\BackendFinal\bin\Debug\net8.0\BackendFinal.staticwebassets.endpoints.json
 C:\Users\Natanael\Trabajo final Programacion II - Base de datos II - Gestión de Proyectos\BackendFinal\BackendFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Natanael\Trabajo final Programacion II - Base de datos II - Gestión de Proyectos\BackendFinal\BackendFinal\obj\Debug\net8.0\staticwebassets\msbuild.BackendFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Natanael\Trabajo final Programacion II - Base de datos II - Gestión de Proyectos\BackendFinal\BackendFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Natanael\Trabajo final Programacion II - Base de datos II - Gestión de Proyectos\BackendFinal\BackendFinal\obj\Debug\net8.0\BackendFinal.sourcelink.json
+C:\Users\Natanael\Trabajo final Programacion II - Base de datos II - Gestión de Proyectos\BackendFinal\BackendFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
